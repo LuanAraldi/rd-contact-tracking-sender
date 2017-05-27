@@ -1,0 +1,19 @@
+{
+  "name": "rd-contact-tracking-sender",
+  "version": "1.0.0",
+  "description": "Page access information sender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanAraldi/rd-contact-tracking-sender.git"
+  },
+  "author": "Luan Carlos Araldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuanAraldi/rd-contact-tracking-sender/issues"
+  },
+  "homepage": "https://github.com/LuanAraldi/rd-contact-tracking-sender#readme"
+}
