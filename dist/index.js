@@ -16,7 +16,9 @@ exports.send = function () {
     }
 
     _axios2.default.post('https://rails-contact-tracking.herokuapp.com/accesses', {
-        url: url,
-        contact_id: contact_id
+        access: {
+            url: url,
+            contact_id: contact_id
+        }
     });
 };
