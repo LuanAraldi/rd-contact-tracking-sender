@@ -9,8 +9,8 @@ exports.send = function () {
         contact_id = randomId
     }
     
-    axios.post('https://rails-contact-tracking.herokuapp.com/access', {
+    axios.post('https://rails-contact-tracking.herokuapp.com/accesses', {
         url: url,
-        contact_id: randomId
+        contact_id: contact_id
     })
 }
