@@ -1,6 +1,6 @@
 {
   "name": "rd-contact-tracking-sender",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Page access information sender",
   "main": "./dist/index.js",
   "scripts": {
