@@ -1,1 +1,5 @@
-rd-contact-tracking-sender
+# Instalation
+
+```bash
+npm install rd-contact-tracking-sender
+```
